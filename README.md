@@ -4,8 +4,7 @@ This Python script removes annoying website names from music files and handles f
 
 ## Author
 
-- **Kshitiz Joshi**
-- **Email:** joshikshitij_13@yahoo.in
+- **Nikunj Baheti**
 
 ## Usage
 
